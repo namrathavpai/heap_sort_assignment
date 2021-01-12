@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1610423341 source:c:\users\msis\documents\201046008\airport\airportevent.c
+	<stdint.h>
+	<stdlib.h>
+	<assert.h>
+	<stdio.h>
+	<string.h>
+	"airportevent.h"
+
+1610423082 c:\users\msis\documents\201046008\airport\airportevent.h
+	<stdint.h>
+	"appconst.h"
+
+1610423173 c:\users\msis\documents\201046008\airport\appconst.h
+
+1610423341 source:c:\users\msis\documents\201046008\airport\main.c
+	<stdlib.h>
+	<stdint.h>
+	<stdio.h>
+	<assert.h>
+	"string.h"
+	"airportevent.h"
+
